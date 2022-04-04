@@ -1,0 +1,4 @@
+say its name => starting proccess (by default say : hey jack)
+firefox => say anything just it's focused on 'firefox' word in sentence
+search in firefox => open firefox and search ... 'and search' is important part
+exit => thank you and goodbye
